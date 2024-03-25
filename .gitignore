@@ -1,0 +1,7 @@
+.pytest_cache
+__*
+__*/*
+
+venv
+
+.vscode
